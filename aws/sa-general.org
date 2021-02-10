@@ -1,0 +1,1088 @@
+* AWS Training
+* Personal Training
+** DONE Get Tier 2 Speaker Certification
+   CLOSED: [2020-10-21 Wed 09:44]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-10-21 Wed 09:44]
+   :END:
+ [2020-10-05 Mon 15:22]
+** MEETING with Advanced Architecting Class                                     :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-06 Tue 10:11]--[2020-10-06 Tue 18:01] =>  7:50
+   :END:
+ [2020-10-06 Tue 10:11]
+*** Instructors
+**** Chis Rach awsrach@amazon.com Virginia Beach, VA
+**** Dipen Desai desadipe@amazon.com Houston, TX
+**** Don George
+**** Karin Johnson
+ **
+* SA Tasks
+** DONE Touch base with Anjana about skills matrix for the team
+   CLOSED: [2020-05-05 Tue 14:55]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-05-05 Tue 14:55]
+   CLOCK: [2020-04-17 Fri 12:56]--[2020-04-17 Fri 12:57] =>  0:01
+   Sent email
+   :END:
+ [2020-04-17 Fri 12:49]
+** DONE Check Job ID 1111146 for Art Muthiora
+   CLOSED: [2020-04-20 Mon 16:20]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-04-20 Mon 16:20]
+   CLOCK: [2020-04-20 Mon 16:11]--[2020-04-20 Mon 16:20] =>  0:09
+   :END:
+ [2020-04-20 Mon 15:15]
+** TODO Get AWS Developer Certification
+*** DONE Finish A Cloud Guru training
+    CLOSED: [2021-01-24 Sun 19:47]
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2021-01-24 Sun 19:47]
+    :END:
+ [2020-04-17 Fri 13:26]
+** TODO Explore using R&D Innovation for rapid prototyping for customers (Emily Reinherz)
+ [2020-04-21 Tue 11:05]
+** MEETING with PITT Sales Team meeting                                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-01 Fri 10:00]--[2020-05-01 Fri 10:30] =>  0:30
+   :END:
+** MEETING with Taryn Marrone weekly meeting                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-04 Mon 10:00]--[2020-05-04 Mon 11:00] =>  1:00
+   :END:
+ [2020-05-04 Mon 10:46]
+** MEETING with Steve Schmitt RE: Agenda for the week                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-04 Mon 09:00]--[2020-05-04 Mon 10:00] =>  1:00
+   :END:
+ [2020-05-04 Mon 10:45]
+** MEETING with Taryn weekly meeting                                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-04-27 Mon 10:00]--[2020-04-27 Mon 11:00] =>  1:00
+   :END:
+ [2020-04-27 Mon 10:12]
+** MEETING with SA Interview training                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-04-23 Thu 12:01]--[2020-04-23 Thu 14:39] =>  2:38
+   :END:
+ [2020-04-23 Thu 12:01]
+** MEETING with All Hands with Greg Pearson                                     :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-04 Mon 12:30]--[2020-05-04 Mon 14:00] =>  1:30
+   :END:
+ [2020-05-04 Mon 13:22]
+** MEETING with                                                                 :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-04 Mon 15:00]--[2020-05-04 Mon 16:30] =>  1:30
+   Notes in evaluation app.
+   :END:
+ [2020-05-04 Mon 14:59]
+*** MEETING with Sanjukta AB2                                                   :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-03 Wed 09:59]--[2021-02-03 Wed 12:02] =>  2:03
+    :END:
+  [2021-02-03 Wed 09:59]
+**** Attendees
+***** Anjana - CISO
+***** Shai - CTO
+***** Nuwan - CFO
+**** Notes
+***** Most of the points - don't hedge
+***** Good job using business outcomes up front
+***** Batch driven
+***** Cobol, Rexx and assembler
+***** State existing when referring to existing arch
+***** Shai - backups failing
+***** Shai - third party vendor
+***** Good job following up on tape backup
+***** Nice job handling database question
+***** Good job following up with questions to dive deeper
+***** Watch the use of "um"
+***** Good job with serverless explanation
+***** Shared responsibility - of the cloud vs on the cloud
+***** Use you can instead of they can
+***** Pause so that people can interject questions
+***** AWS SSO instead of Cognito?
+***** Good job on Splunk/Datadog licensing
+***** Slow down and pause
+***** Missed opportunity to state that SA guides and teaches or to add in pitch for training
+***** Miss on code scanning - third party tools can be integrated
+***** Good catch on containers to reuse code from Cobol
+***** Better time management. Catch earlier if you can
+***** Should have skipped end of workflow and gone to retries
+***** Defer questions at end to finish
+***** Need better messaging around guarantee of SLA
+***** Asked for 5 minutes. Took 10.
+***** Good job pivoting
+***** Managed services explanation
+  ***
+*** MEETING with Sanjukta RE: AB2                                               :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-03 Wed 13:44]--[2021-02-03 Wed 14:35] =>  0:51
+    :END:
+  [2021-02-03 Wed 13:44]
+  **
+*** MEETING with Conversation with Sanjukta RE: AB2 prep                        :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-04 Thu 12:12]--[2021-02-04 Thu 12:13] =>  0:01
+    :END:
+  [2021-02-04 Thu 11:30]
+*** MEETING with Sanjukta RE: AB2 #2 dry Run                                    :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-05 Fri 12:29]--[2021-02-05 Fri 12:59] =>  0:30
+    :END:
+  [2021-02-05 Fri 12:29]
+**** Notes section at start?
+**** In Agenda use cost analysis
+**** ""Diagram is in no way complete"" - leads to question of what were the existing conversations about?
+**** AIX Self service web site - represented in final design?
+**** I would like to circle back. If that works for you.... - hedge terms are not confidence inspiring
+**** Blown this up - might be better as dive into deeper detail. More in line with AWS messaging.
+**** Pause more often. Breathe.
+**** Ask if there are any questions for each point. Make the session interactive.
+**** Turn off all other notifications
+**** Ask followup if third party logging is happening on premises or in cloud?
+**** Consider putting challenges up front - before even looking at existing architecture
+**** The proposed arhcitecture is serverless. - qualify whcih architecture
+**** As we discussed at our first meeting - refer back to the existing meeting to refresh concepts
+**** Customers might not be known for developing applications.
+**** Goal is to help customer achieve their business outcomes
+**** Good job with security is job zero
+**** Good job with usecase - including it in the presentation
+**** Shared responsibilty model - AWS secures the cloud - customer secures in the cloud
+**** Don't hedge - address your concerns to the best of my abilities
+**** Ask customer which they would prefer and then explain more detail about that choice
+**** Let me make a note of this and I will get those answers for you
+**** CloudTrail can be forwarded to CloudWatch
+**** CloudWatch retention - max retention period
+***** retention is 15 months max
+***** 60seconds - 3 hours
+***** 1min - 15 days
+***** 5min - 63 days
+***** 1hour - 15 months
+**** Error rate for textract?
+***** question was asked. Why question if I am interested?
+***** Confidence score?
+**** When I am doing the POC?
+***** Clarify the working model
+***** phased approach
+**** Might have skipped the phase 2
+***** Go straight to the pricing and then ask if customer would like to see phase 2 during question time
+**** Time management - save 5 min for questions at the end
+**** Call cost analysis just that
+***** safe to call it cost estimation
+**** Break out phase 1 and phase 2 costs and include overall cost
+*** MEETING with Sanjukta AB2                                                   :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-03 Wed 09:59]--[2021-02-03 Wed 12:02] =>  2:03
+    :END:
+  [2021-02-03 Wed 09:59]
+**** Attendees
+***** Anjana - CISO
+***** Shai - CTO
+***** Nuwan - CFO
+**** Notes
+***** Most of the points - don't hedge
+***** Good job using business outcomes up front
+***** Batch driven
+***** Cobol, Rexx and assembler
+***** State existing when referring to existing arch
+***** Shai - backups failing
+***** Shai - third party vendor
+***** Good job following up on tape backup
+***** Nice job handling database question
+***** Good job following up with questions to dive deeper
+***** Watch the use of "um"
+***** Good job with serverless explanation
+***** Shared responsibility - of the cloud vs on the cloud
+***** Use you can instead of they can
+***** Pause so that people can interject questions
+***** AWS SSO instead of Cognito?
+***** Good job on Splunk/Datadog licensing
+***** Slow down and pause
+***** Missed opportunity to state that SA guides and teaches or to add in pitch for training
+***** Miss on code scanning - third party tools can be integrated
+***** Good catch on containers to reuse code from Cobol
+***** Better time management. Catch earlier if you can
+***** Should have skipped end of workflow and gone to retries
+***** Defer questions at end to finish
+***** Need better messaging around guarantee of SLA
+***** Asked for 5 minutes. Took 10.
+***** Good job pivoting
+***** Managed services explanation
+  ***
+*** MEETING with Sanjukta RE: AB2                                               :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-03 Wed 13:44]--[2021-02-03 Wed 14:35] =>  0:51
+    :END:
+  [2021-02-03 Wed 13:44]
+  **
+*** MEETING with Conversation with Sanjukta RE: AB2 prep                        :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-04 Thu 12:12]--[2021-02-04 Thu 12:13] =>  0:01
+    :END:
+  [2021-02-04 Thu 11:30]
+*** MEETING with Sanjukta RE: AB2                                               :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-08 Mon 09:06]--[2021-02-08 Mon 10:28] =>  1:22
+    :END:
+  [2021-02-08 Mon 09:00]
+**** Good job redirecting Shai and I on backups
+**** Should have don it sooner
+**** Good job diving deeper
+**** Stating that a topic will require many sessions might turn off customers
+**** Redirect users faster
+**** Good job with security groups
+**** Good job answering questions and calling out who asked the question
+** MEETING with Phone Screen for Victor Feinman                                 :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-19 Tue 09:42]--[2020-05-19 Tue 10:34] =>  0:52
+   :END:
+ [2020-05-19 Tue 09:42]
+** TODO Use GrubHub gift certificate from DCK Immersion Day
+ [2020-04-20 Mon 13:07]
+** MEETING with Transition meeting with Taryn, Alex C, Anajana, Steve Schmitt   :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-07 Thu 16:10]--[2020-05-07 Thu 16:54] =>  0:44
+*** Transition Plan
+**** Numo
+***** Enterprise Support Agreement in flight
+***** Enterprise Agreement Signed
+**** PPG
+***** Route 53 project
+***** Direct connect pending
+***** Cloud CIO role
+***** Digital Innovation Group
+****** 12 data scientists
+****** 6 ML projects in Azure
+****** Need to get use cases for ML workloads and learning
+***** SAP compete situation
+***** VMWare on Outposts
+***** Amazon Connect
+**** Erie Insurance
+***** Marklogic
+****** Nutanix to AWS
+***** Training classes
+***** Splunk
+***** Redshift
+   :END:
+ [2020-05-07 Thu 16:10]
+** MEETING with Weekly meeting chaired by Taryn Marrone                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-11 Mon 10:00]--[2020-05-11 Mon 11:00] =>  1:00
+   :END:
+ [2020-05-11 Mon 10:05]
+** MEETING with Steve Schmitt RE: account planning                              :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-11 Mon 09:30]--[2020-05-11 Mon 10:00] =>  0:30
+   :END:
+ [2020-05-11 Mon 10:03]
+** MEETING with Anjana Kandalam RE: Team Meeting                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-12 Tue 13:37]--[2020-05-12 Tue 15:59] =>  2:22
+   :END:
+ [2020-05-12 Tue 13:37]
+** MEETING with Bi-Weekly sales team meeting                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-29 Fri 10:00]--[2020-05-29 Fri 12:00] =>  2:00
+   :END:
+ [2020-05-29 Fri 10:17]
+** MEETING with Steve Schmitt RE: Agenda for the week                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-08 Mon 09:30]--[2020-06-08 Mon 10:00] =>  0:30
+   :END:
+ [2020-06-08 Mon 09:37]
+** MEETING with Anjana Team Meeting                                             :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-23 Tue 11:32]--[2020-06-23 Tue 13:04] =>  1:32
+   :END:
+ [2020-06-23 Tue 11:32]
+** MEETING with Team Meeting for Anjana                                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-07-07 Tue 11:07]--[2020-07-07 Tue 15:12] =>  4:05
+   :END:
+ [2020-07-07 Tue 11:07]
+** MEETING with PITT Team Meeting                                               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-07-24 Fri 10:00]--[2020-07-24 Fri 11:30
+ ] =>  1:30
+   :END:
+ [2020-07-24 Fri 10:56]
+** MEETING with Anajana Team                                                    :MEETING:
+*** Control tower Immersion day does not exist - Need better way to allow customers to experiment
+ [2020-08-18 Tue 11:00]
+** MEETING with SA All Hands                                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-08-20 Thu 12:00]--[2020-08-20 Thu 13:00] =>  1:00
+   :END:
+ [2020-08-20 Thu 12:00]
+** MEETING with Nick Emmig Check Ride                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-08-31 Mon 14:00]--[2020-08-31 Mon 15:31] =>  1:31
+   :END:
+*** Into was a little long and slow
+*** Referred to PPG instead of "you"
+*** Don't read the slides to the audience
+*** NOT the exact same solution as Amazon.com. Similar to...
+*** Instead of referring to the customer as "you all" use the customer name or individual names
+*** Look more at the camera instead of the presentation
+*** Go to the second or third level
+** MEETING with PENNGF team RE: bi-weekly meeting                               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-15 Fri 10:00]--[2020-05-15 Fri 11:00] =>  1:00
+   :END:
+ [2020-05-15 Fri 10:22]
+** MEETING with PEP team                                                        :MEETING:
+ [2020-05-18 Mon 09:44]
+** MEETING with Weekly meeting with Tara                                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-08 Mon 10:00]--[2020-06-08 Mon 11:00] =>  1:00
+   :END:
+ [2020-06-08 Mon 10:04]
+** TODO Write ansible script to configure workspace
+ [2020-05-15 Fri 13:58]
+** MEETING with Steve Schmitt RE: Project Missile                               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-08-20 Thu 10:18]--[2020-08-20 Thu 12:00] =>  1:42
+   :END:
+ **
+ [2020-08-20 Thu 10:18]
+** MEETING with Friday Live with Okta                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-18 Fri 13:00]--[2020-09-18 Fri 13:25] =>  0:25
+   :END:
+ [2020-09-18 Fri 13:22]
+** MEETING with Bi-weekly sales meeting                                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-18 Fri 10:42]--[2020-09-18 Fri 12:28] =>  1:46
+   :END:
+ [2020-09-18 Fri 13:42]
+** MEETING with Field Ready overview                                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-18 Fri 12:30]--[2020-09-18 Fri 13:00] =>  0:30
+   :END:
+ [2020-09-18 Fri 12:28]
+** MEETING with Anajana Team Meeting                                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-22 Tue 11:54]--[2020-09-22 Tue 12:05] =>  0:11
+   :END:
+ [2020-09-22 Tue 11:00]
+*** Review of team events
+*** Review of MBR
+** MEETING with Touch base with Anjana                                          :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-23 Wed 13:00]--[2020-09-23 Wed 14:00] =>  1:00
+   :END:
+ [2020-09-23 Wed 13:01]
+ **
+** MEETING with MB1 dry run with Sanjukta                                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-24 Thu 13:36]--[2020-09-24 Thu 15:29] =>  1:53
+   :END:
+ [2020-09-24 Thu 13:36]
+*** Personas
+**** CFO
+**** VP of technology
+**** Chief Archtict
+**** CISO
+*** Presentation Notes
+**** I'm here to talk about
+**** So, ah *
+**** ummmm
+**** Security is number 1 priority - actually job 0
+**** Focus on business outcome not application(s)
+**** Electricity analogy, use we don't build generating plants, flip a switch
+**** Question that always comes to mind? Most customers only want to solve their problems.
+***** Agility
+***** Cost Savings
+****** question on value of opex vs capex
+******* Answered with RI
+***** Elasticity - Explain what overcapacity is before
+***** Innovate Faster
+****** Andy Jassey - undiferentiated heavy lifting
+***** Global - good lead into future slide
+***** Breadth and depth
+****** 175+ - still correct
+***** I would want to.... Don't make it about you
+***** Industry leaders slide - use eyechart analogy
+***** Gregraphical presence vs global presence
+***** Too much time on industry leaders
+***** Wait till security slide to address security concerns. Otherwise you use up too much time.
+***** I will be moving on to the next slide
+**** Global presence
+***** Validate correctness of slide
+***** Data centers - low latency
+***** Explain details - distance, latency, fault line, flood plain etc
+***** LAtency is always an issue with cross region - can't beat the speed of light
+***** Azure more regions? - Azure region is not POP it is closer to a AZ
+**** Broad and deep
+***** Refer to chart as an eyechart - Don't worry about memorizing all of these.... Put customer at ease
+***** Talk About The layers - core is base that everything else is built on
+***** Security - Reinforce job 0 at AWS
+***** TAM is enterprise support - talk about the AWS team
+**** Shared responsibility
+***** Refer to company by name to make it more personal
+***** Capital One is touchy topic. Avoid using it if you can.
+***** On prem vs on premises
+**** Compliance controls
+***** Data center physical access?
+****** Attestations
+****** Good point to stress the separation of duties as well
+**** Ecosystem
+***** Dont read the slide - Augment the slide
+***** Licensing - check with your vendor
+**** Cloud journey
+***** More than two categories - these are quite often the journeys that our customers have taken when migrating to the cloud
+***** Project - POC Show value quickly
+***** Foundation - set up the basics to use the cloud more actively
+***** Too many technical terms - Remember the audience
+***** Migration - lift
+**** Close
+** MEETING with AWS Overwatch overview                                          :MEETING:
+ [2020-09-25 Fri 12:30]--[2020-09-25 Fri 13:00]
+** MEETING with Monthly SA All Hands                                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-25 Fri 13:18]--[2020-09-25 Fri 13:31] =>  0:13
+   :END:
+ [2020-09-25 Fri 13:00]
+** MEETING with Hansencx RE: SFTP                                               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-14 Mon 09:58]--[2020-09-14 Mon 11:08] =>  1:10
+   :END:
+  [2020-09-14 Mon 09:58]--[2020-09-14 Mon 10:45]
+*** Individual groups are managing their own user accounts
+** MEETING with Hansencx   Containers Followup (Harish)                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-24 Thu 15:30]--[2020-09-24 Thu 16:15] =>  0:45
+   :END:
+ [2020-09-24 Thu 15:31]
+ **
+** MEETING with Taryn Morone RE: Greenfield Weekly Call                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-28 Mon 10:11]--[2020-09-28 Mon 10:45] =>  0:34
+   :END:
+ [2020-09-28 Mon 10:00]--[2020-09-28 Mon 10:30]
+ **
+** MEETING with Sanjukta RE: Weekly touch base                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-28 Mon 14:03]--[2020-09-28 Mon 14:42] =>  0:39
+   :END:
+ [2020-09-28 Mon 14:03]
+*** Took written notes after MB! first dry run
+*** Assigned doing backgroud research on Erie Insurance
+** MEETING with Anjana RE: Weekly Team Meeting                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-29 Tue 11:00]--[2020-09-29 Tue 12:00] =>  1:00
+   :END:
+ [2020-09-29 Tue 11:22]
+** MEETING with Redshift Training session                                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-29 Tue 12:00]--[2020-09-29 Tue 13:09] =>  1:09
+   :END:
+ [2020-09-29 Tue 12:04]
+** MEETING with Anjana RE: One on One                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-29 Tue 14:00]--[2020-09-29 Tue 14:3≈0] =>  0:30
+   :END:
+ [2020-09-29 Tue 14:48]
+** MEETING with Chris Fuller RE: Sanjukta goals and onboarding                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-01 Thu 10:00]--[2020-10-01 Thu 10:30] =>  0:30
+   :END:
+ [2020-10-01 Thu 10:44]
+** MEETING with Webinar RE: Competing with Azure                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-01 Thu 12:00]--[2020-10-01 Thu 13:00] =>  1:00
+   :END:
+ [2020-10-01 Thu 12:00]
+** MEETING with Bi-Weekly Pittsburgh Sales                                      :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-02 Fri 10:00]--[2020-10-02 Fri 11:3Brain10!!0] =>  1:30
+   :END:
+ [2020-10-02 Fri 10:23]
+ **
+** MEETING with Dry Run #2                                                      :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-13 Tue 09:03]--[2020-10-13 Tue 10:54] =>  1:51
+   :END:
+ [2020-10-13 Tue 09:03]
+*** Make sure you take notes of names
+*** Watch for filler records
+*** Don't announct the point
+*** Good response to cost by mention AWS Budgets and Savings Plans
+*** Can't provide accounting advice AT ALL - Forbidden by agreement with Feds
+*** Why customers slide - Which one resonates with you?
+*** Industry leaders - call it an eyechart
+*** Research stories on the industry so you have them in advance
+*** AZ's are at most 100KM
+*** State up front what your role and responsibility is
+*** Cloud journey -  use customers instead of third person
+** MEETING with Anjana Team Huddle                                              :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-13 Tue 11:04]--[2020-10-13 Tue 15:01] =>  3:57
+   :END:
+ [2020-10-13 Tue 11:04]
+ **
+** MEETING with Bi-weekly Sales Meeting                                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-16 Fri 11:06]--[2020-10-16 Fri 11:10] =>  0:04
+   :END:
+ [2020-10-16 Fri 11:06]
+** MEETING with Sanjukta AB1                                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-11-04 Wed 14:36]--[2020-11-04 Wed 15:41] =>  1:05
+   :END:
+ [2020-11-04 Wed 14:36]
+*** Better clarity around costing for AZ's (only pay for what you build
+*** Good response to Azure compete on regions/az's
+*** Good job refering back to individuals about their questions once you got to a relevant slide
+*** Capex vs Opex - clarity
+*** Ask questions to dive deeper if you don't understand
+*** Work more on being direct with answers
+*** Excellent job with taking notes and reviewing those notes with the customer
+*** Work on value propisition more
+*** Clarify capacity
+*** Israel region - Outposts?
+*** Security is job zero
+** MEETING with Sanjukta RE: AB2 prep                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-23 Wed 11:30]--[2020-12-23 Wed 12:15] =>  0:45
+   :END:
+ [2020-12-23 Wed 12:52]
+** MEETING with Johnson Ngocoral AB2                                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-23 Wed 09:30]--[2020-12-23 Wed 11:00] =>  1:30
+   :END:
+*** Much better job facing camera
+*** Much better job asking probing questions
+*** Docker description was misleading
+*** Good description of differing security concerns when using Containers
+*** Avoid using the name Docker. Use generic term containers
+*** Don't diminish the customers concerns
+*** Work on redirecting customer questions
+*** Anticipate customer questions and complaints and address them proactively
+*** Clock management...
+*** Go for the commit on a followup meeting
+  [2020-12-23 Wed 09:32]
+** MEETING with Justin Piocquid and Mario RE: technical questions               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-23 Wed 13:00]--[2020-12-23 Wed 13:45] =>  0:45
+   :END:
+  [2020-12-23 Wed 13:00]
+ **
+** MEETING with Johnson - AB2 Dry run                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-15 Tue 13:46]--[2020-12-16 Wed 10:11] => 20:25
+   :END:
+*** Face the camera more.
+*** Ask Why?
+*** Technical issues are not the only ones.
+*** Dive into validation of understanding.
+*** Missed that S3 was already serving
+*** Cloudfront free?
+*** Pause and ask for understanding/clarificaiton
+*** Need better understanding of Fargate mechanics and value proposition
+*** Missed dynamic content in web layer
+*** Never addressed latency directly
+*** Stuck on autoscaling
+*** Value of caching layer?
+*** Confusion around how to manage reporting
+*** Need better clarification around value proposition
+*** No questions about how customer planned autoscaling (We load tested)
+*** Autoscaling in current architecture was based on financial limits
+*** Repeated value of ELB several times
+*** Stated up front that we were going to visit cost and then deferred
+*** How does new architecture address troubleshooting?
+*** No real talk about CI/CD
+*** Never addressed technical debt? Or did I miss it?
+*** DR plan?
+*** Time managment... Was talking till the very end of the session
+*** Cost specialist.... Need deeper dive.
+  [2020-12-15 Tue 13:46]
+** MEETING with Sanjukta AB1 Dry Run #3                                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-21 Wed 13:29]--[2020-10-21 Wed 15:1ccm5] =>  1:46
+   :END:
+ [2020-10-21 Wed 13:29]
+*** watch filler words
+*** Multi billion dollar
+*** Focus on the interaction instead of the technical
+*** Financial penalties for SLA is different than compliance
+*** Start with budget and then go to IAM (Address the core question up front.
+*** Eplain operational expenses (OPEX) when you talk to CAPEX
+*** Use the Any Jassey quote for "unidfferentiated heavy lifting"
+*** Good example on health plan
+*** On functionality slide, reinfoce that all higher level services are built on top of the foundational services
+*** On functionality slide, reinforce that the SA is there to guide the client
+*** Customers get account manager automatically. Support options (basic, business, enterprise) are different
+*** All infrastructure is not certified for all certifications. Need to be clearer on that message
+*** Ecosystem is in addtion to services (partners and marketplace)
+*** Highlight that marketplace purchases show up on the AWS bill (hid it in consolidated billing)
+*** Cleify who does the work for project phase of cloud journey
+*** Direct connect is not tied to Hybrid model of operations
+*** 6 rs of cloud migration (can use 3 - rehost, replatform, refactor)
+*** Slow down
+** MEETING with Team call RE: Numo                                              :MEETING:
+ [2020-10-21 Wed 15:43]
+** MEETING with Anjana Team Meeting                                             :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-27 Tue 11:10]--[2020-10-27 Tue 14:18] =>  3:08
+   :END:
+ [2020-10-27 Tue 11:10]
+** MEETING with VMWare RE: PPG                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-29 Thu 10:34]--[2020-10-29 Thu 11:06] =>  0:32
+   :END:
+ [2020-10-29 Thu 10:34]
+ **
+** MEETING with AWS Training RE: PrivateLink                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-29 Thu 12:17]--[2020-10-29 Thu 12:49] =>  0:32
+
+   :END:
+ [2020-10-29 Thu 12:17]
+ **
+** MEETING with Sanjukta RE: Mini AB 1                                          :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-02 Wed 14:00]--[2020-12-02 Wed 16:13] =>  2:13
+   :END:
+*** Better job with the electricity analogy
+*** Good handling of objections to defer to appropriate slides
+*** Good job taking notes
+*** Avoid saying you may not be able to answer. "Let me know if I have not answered your question(s) and I can work on providing more detail."
+*** Windows licensing??? We can conduct a review and offer suggestions
+*** Capex vs Opex - Good refernece to taxes
+*** Good job with cost savings on savings plan and/or reserved instances
+*** Be careful of the direct rebuttal of the Microsoft FUD. You recovered well but started out directly countering the MS messaging
+*** Nice job referring back to Anjana's question about failover with the networking slide.
+*** Good job defering on training and requesting a followup
+*** Security slide - Refer to the customer by name instead of the third person
+*** Account SA will still work with customer even if a partner is engaged
+*** SLA's may include financial renumeration if they are breached
+*** Customer limits may come into play for limits into scaling
+ **
+ [2020-12-02 Wed 14:00]
+** MEETING with Hour of Code                                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-10 Thu 09:47]--[2020-12-10 Thu 09:57] =>  0:10
+   :END:
+*** Worked on dance party with Crafton Elementary
+ **
+  [2020-12-10 Thu 09:47]
+** MEETING with Ashok AB1 - Dry run 1                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-14 Mon 14:28]--[2020-12-14 Mon 15:42] =>  1:14
+   :END:
+*** Don't keep asking ok?
+*** Try and maintain more eye contact with the camera.
+*** Good job wih notes.
+*** Work on messaging around access to data
+*** Watch the time and redirect the participants if they get off topic
+*** I am not an expert? Messaging clarification
+*** Best and most secure? Messaging
+*** Security is job zero messaging
+  [2020-12-14 Mon 14:28]
+** MEETING with                                                                 :MEETING:
+ [2020-08-12 Wed 14:04]
+   :LOGBOOK:
+   CLOCK: [2021-01-11 Mon 15:00]--[2021-01-11 Mon 17:15] =>  2:15
+   :END:
+ [2021-01-11 Mon 15:00]
+*** Hide the draw.io pallet if you can
+*** Avoid using filler words "um"
+*** Put the pain points in a list that is shown up front
+*** Announce up front that you will be using text to annotate instead of updating diagram
+*** What is web site hosted with?
+*** Clarify what AIX is doing and how
+*** Datacenter structure?
+*** Need deeper clarity around the existing architecture
+*** Good job validating that the services are HIPAA compliant
+*** Point out that the list of HIPAA complient services are continuously updated and provide a link
+*** Solving for how the documents will be scanned and uploaded should be part of the solution
+*** No need to update the form details for textract?
+*** Retries?
+*** Errors?
+*** How to validate textract is correctly interpreting images?
+*** Workflow?
+*** Don't offer for your team to produce the POC and hand it over
+*** Lambda now supports containers so customer could use COBOL
+*** Highlight the 1ms billing increment
+*** Where is Cloudwatch?
+*** Logging bucket?
+*** How is the access control implemented?
+*** No glacier on the other two S3 buckets?
+*** Use a UUID or dynamo DB to maintain correlation between PHI and non-phi
+*** How are we auditing who/what uploads paper claims?
+*** How is HTTPS being used with S3?
+*** Must use CloudFront to have HTTPS with S3
+*** Insert SNS/SQS to decouple stages of serverless pipeline
+*** Existing user base
+*** Coginito federated access
+*** Time management
+*** Glacier pricing?
+*** Call out that Glue is using Spark behind the scenes
+*** Don't switch to web page for textract pricing
+*** Triple check the numbers
+*** Use formula in spreadsheet so you can change the numbers quickly
+** MEETING with Hershey RE: Sagemaker and RStudio for Alex Castanedez           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-12 Tue 12:31]--[2021-01-12 Tue 14:35] =>  2:04
+   :END:
+ [2021-01-12 Tue 12:31]
+*** Donna Chu PWC
+*** Bill Horan Director PWC
+*** Daman Singh - Account Lead for Erie @ PWC
+*** Christina MAnnarino - Customer Success Manager @ AWS
+*** Harrison McCoy - Manager for PWC alliance
+*** Joe Marino - Leads global alliance with PWC @ AWS
+*** Larry Verdi -  @ AWS
+** MEETING with Interview                                                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-15 Fri 11:02]--[2021-01-15 Fri 14:00] =>  2:58
+   :END:
+ [2021-01-15 Fri 11:02]
+*** Intro
+**** Platform engineer with equifax
+**** Worked a middleware engineer
+**** Continuous deployments
+*** Nat
+**** technically complex project
+*** Ais
+**** Equifax hit by data breach
+**** needed to identify the middleware apps to harden them
+**** Find owners and shut down or assign
+**** worked with ITAM
+**** find all details
+**** active servers needed to be hardened
+**** Installed new rapidscan
+**** Got list of issues
+**** Needed to remediate
+**** Servers were using SSL and needed to be upgraded to TLS
+**** disable weak cyphers
+**** installed cyberark to rotate passwords
+*** nat
+**** Any items that you were not familiar with?
+*** ais
+**** Had to evaluate the vulnerability discovery tool
+**** Had no experience in Solaris
+**** Had to learn Solaris to complete tasks
+*** Nat
+**** Rapidscan
+**** How did you research and evaluate
+*** ais
+**** Any known issues with product
+**** How reliable and stable?
+**** Ensure platform and software compatibility
+**** Resource consumption
+*** nat
+**** What happened next?
+**** Result?
+*** ais
+**** Company trying to rebrand as a data company
+**** Needed to validate that middleware was effectively hardened
+**** Company brought in ethical hackers to test
+*** nat
+**** Any fixes that were not able to be automated
+*** ais
+**** High and critical had to be addressed
+**** Critical was several hour SLA
+**** High had several days
+**** Some platforms could not be patched
+*** nat
+**** Process to rescan and validate
+*** ais
+**** Scripted tests for vulnerability as part of rundeck
+**** Jenkins used as well
+*** nat
+**** Why convert from SSL to TLS
+*** ais
+**** TLS is more secure and latest version
+*** nat
+**** CICD?
+*** ais
+**** continuusly deploying in pipeline
+**** deployment chunks are broken down to smaller pieces
+**** Automatically moved to staging
+**** Automatically tested and results are reported back
+**** Can be completed in days instead of weeks
+**** Can potentially catch issues earlier in the cycle
+**** Jenkins, bitbucket, puppet chef
+*** nat
+**** VCS
+*** ais
+**** bitbucket and SVN
+*** nat
+**** how to vcs work
+*** ais
+**** branch is trunk
+**** developer adds changed
+**** approver for change
+**** bitbucket tries to resolve issues and merge into trunk
+*** nat
+**** Have you used?
+*** ais
+**** use for config
+*** nat
+**** deployment
+**** ready to go to production
+**** methods or models for deployment?
+*** ais
+**** equifax has site a & b
+**** Once deployment is done, validation is done
+**** switch traffic to other site
+**** seamless to customer
+**** zero down time
+**** blue-green deployment
+*** nat
+**** Any other deployment models
+**** Rolling upgrades?
+**** Canary?
+*** ais
+**** No
+*** Nat
+**** RTO vs RPO
+*** ais
+**** rto is how long before recovery
+**** rpo is how much data loss you can tolerate
+*** nat
+**** change in dr strategy
+*** ais
+**** RPO of 1hr take backup every hour
+*** nat
+**** RPO of 15min with RTO of hours max
+*** nat
+**** More stringent?
+*** ais
+**** read replicas or mirroring
+*** nat
+**** rest of architecture?
+*** ais
+**** rest of architecture has to be backed up
+*** Nat
+**** near real time
+*** ais
+**** some
+*** nat
+**** approch for secondary site
+*** ais
+**** data changes and needs to be backed up
+*** nat
+**** databases?
+*** ais
+**** oracle
+*** nat
+**** cold vs hot dr for oracle?
+*** ais
+**** oracle rac
+**** goldengate
+**** goldengate becomes dr site
+**** goldengate does back and replication
+**** continuous replication
+**** snapshots might lose data
+*** nat
+**** replication sync or asynch?
+*** ais
+**** sync
+*** nat
+**** how rac works?
+*** ais
+**** vip points to multiple nodes
+**** vertical or horizontal scaling
+*** nat
+**** is there a shared database?
+*** ais
+**** yes shared
+*** nat
+**** why rac?
+*** ais
+**** so you can have multiple schemas in database
+*** nat
+**** scaling rac?
+*** ais
+**** vertical is more challenging
+*** nat
+**** microservices?
+*** ais
+**** smaller services
+**** runs on own container
+**** can run on any os
+*** nat
+**** design patterns
+**** monolithic app
+**** DB is factored out
+**** patterns to decompose app?
+*** ais
+**** traditionally worked in SOA
+**** group by business logic into services
+***** business
+***** Payments
+*** nat
+**** how to deploy microservices
+*** ais
+**** need container management tool
+**** docker is one tool
+**** create image
+***** image creates containers
+**** currently deploys to GKE
+**** single server can have multiple containers
+**** each container can have multiple microservices
+*** nat
+**** communications?
+*** ais
+**** REST API
+**** can use load balancer
+**** Need api gateway when exposed directly to internet
+*** nat
+**** any other ways to decouple services?
+*** ais
+**** not sure how to answer
+*** nat
+**** further clarification
+*** ais
+**** group them so they don't call outside the container
+*** nat
+**** containerization
+**** what is it? Compare to VM
+*** ais
+**** vm is traditional
+**** software goes on top of hardware to virtualize
+**** containers virtualize the OS
+**** each container can have different OS
+*** nat
+**** why use containers?
+*** ais
+**** primary is parallel development and deployment
+**** Led more by business logic
+**** If someone leaves, smaller deployments are easier to manage
+*** nat
+**** What specifically about containers allows parallel development/deploy
+*** ais
+**** lightweight
+**** cheaper
+**** easy to add new features
+**** less intgration
+*** Alex
+**** istio?
+*** ais
+**** not really
+*** nat
+**** anything technical you learned recently?
+*** ais
+**** GCP certifications
+**** working on AWS and Azure to broaden
+*** nat
+**** learning tools
+*** ais
+**** account with linux academy
+**** account with udemy
+*** nat
+**** gaps or perceptions of cloud providers?
+*** ais
+**** Google has fewer services
+**** Google just entered the market
+**** Google more open source
+*** nat
+**** anything in AWS training that was technically new
+*** ais
+**** CDN was new term
+**** concept was not new
+*** nat
+**** questions?
+*** ais
+**** day in life of SA
+** MEETING with Presentation                                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-15 Fri 14:02]--[2021-01-15 Fri 15:08] =>  1:06
+   :END:
+ [2021-01-15 Fri 14:02]
+*** Verizon connected car
+*** Production engineering and middleware management
+** MEETING with Sanjukta RE AB2 Dry Run #2                                      :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-20 Wed 14:00]--[2021-01-20 Wed 15:34] =>  1:34
+   :END:
+ [2021-01-20 Wed 14:00]
+*** @:05pm start time
+*** Work on smothing out intro
+*** Web server on AIX
+*** Classic Federation
+*** Initial approval process
+**** Financial documents
+**** Identification
+**** Existing vs Legacy
+*** Call out RACF as part of security up front
+*** Fewer details around the other components, focus on the system that will be replaced
+*** Use an outstanding issues for the existing architecture
+**** call out the usage of the oustanding issues up front so there is no confustion
+*** better definition of serverless - define concept up front in easy to understand terminology
+*** Own SSL certificate
+**** how to use ssl with s3
+**** user -> role -> policy
+**** cognito vs sso?
+**** Call out other S3 buckets
+***** best practice is separate logging account
+**** textract limitations
+**** DNS?
+**** Calls back to on-premise
+**** Lookups are questionable.... be careful
+**** Connectivity between Octank and AWS?
+**** Need to include components (DLQ for example)
+**** Dynamodb does do throttling
+***** Lambda retries may fail....
+ **
+** MEETING with Sanjukta RE: Ab2 Dry Run #2 review                              :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-22 Fri 10:30]--[2021-01-22 Fri 11:10] =>  0:40
+   :END:
+ [2021-01-22 Fri 11:23]
+** MEETING with Sanjukta AB2 Dry Run #2                                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-26 Tue 13:01]--[2021-01-26 Tue 14:30] =>  3:13
+   :END:
+ [2021-01-26 Tue 13:01]
+*** Alex Notes
+**** Introductions - Nice job
+**** Perfer we as opposed to I
+**** Good job accouncing that you will be taking notes
+**** "And um" ....
+**** Good handling of questions around existing process
+**** Pause after asking if there are questions
+**** Good job answering storage s3->glacier
+**** Good answer on Gemalto device in data center
+**** KMS allows customer managed keys
+**** Good answer about Datadog licensing
+**** Customer is responsible for own licensing validation
+**** Good job on lambda programming question
+**** Textract may have errors. Don't pitch as no more errors
+**** Focus more on the concept of the service instead of the technical details
+**** Kafka could have been part of the solution...
+**** As followup questions to better understand the ask
+**** Clarify that lambda runs in multiple AZ therefore highly available
+**** Drive to followup meeting. Get commitment
+**** A month out is too far. Push for 2 weeks or less.
+*** Nuwan feedback
+**** Good level set
+**** good context
+**** Good confidence
+**** POC is ambitious
+**** Cloudwatch pricing
+**** .Net for Lambda
+**** Deeper domain knowledge of topic
+**** More concise responses
+*** Shai
+**** Regions vs AZ vs Datacenter
+**** Share experience about why something might not be needed
+**** TSO logic to compare
+**** More commanding intro
+**** More interaction with participants
+**** Good job reducing time to completion
+**** Good job with Draw.io and layers
+**** Good job managing scope
+**** Close outlook and other messaging
+**** Don't use the word cheap
+**** Ask followup questions
+**** Clarify delivery of POC - partner and teach
+**** Simplify the pricing. Just ballpark and give round numbers
+**** Good job defusing the frustration around DR - good job pausing and responding
+**** Good job with wrapup
+**** You can command the room. Have faith in yourself

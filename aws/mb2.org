@@ -1,0 +1,39 @@
+* Master Builder 2
+- Dive deep into existing architecture
+- Present proposed solution architecture
+** Context
+Octank Insurance (Travel Insurance)
+Serves both B2B and B2C customers through web and API's
+** Current State
+Current architecture is a three-tier architecture supporting both web and API clients
+- Mixture of Java and .NET development
+- Mixture of containers and raw services
+- F5 for load balancing and firewall
+- DB2 and Oracle for databases
+- Apache HTTP server as proxy layer and managing routing
+- VMWare in three data centers within the US
+** Challenges
+These challenges were highlighted during our previous conversations.
+- Scaling :: Spikes in demand
+- Geographic :: Looking to expand into the European Union and UK
+- Accounting :: Would like to know which clients are using what resources (B2B, B2C and Internal users)
+** Discussion Topics
+- Authentication :: Desired model for web site
+- Authentication :: Desired model for API's
+- Authentication :: Internal users (ie. Help Desk, testers)
+- Metrics :: How to define sucess
+** Proposed architecture
+- AWS Shield :: DDOS protection
+- Amazon Cloudfront :: Global content delivery
+- Amazon API Gateway :: API management and authentication
+- Amazon Cognito :: User management
+- AWS Lambda :: Custom authenticators
+- AWS Fargate :: Container management and runtime
+- Amazon EC2 :: Virtual machines
+- Amazon Aurora :: Relational database (Postgres version)
+- AWS Data Migration Service :: Migrate data to cloud database
+- Amazon Virtual Private Cloud :: Secure space to work in the cloud
+- AWS Direct Connect :: Dedicated network connection between data center and AWS
+- Amazon Cloudfront :: Logging and monitoring
+- AWS Auto Scaling :: Scale number of EC2 instances up and down
+- Amazon Route 53 :: DNS management

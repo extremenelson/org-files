@@ -1,0 +1,32 @@
+* Special Dates
+  :PROPERTIES:
+  :CATEGORY: Dates
+  :END:
+* Finances
+  :PROPERTIES:
+  :CATEGORY: Finances
+  :END:
+* Health
+  :PROPERTIES:
+  :CATEGORY: Health
+  :END:
+* Recreation
+  :PROPERTIES:
+  :CATEGORY: Recreation
+  :END:
+* Lawn
+  :PROPERTIES:
+  :CATEGORY: Lawn
+  :END:
+* Notes
+  :PROPERTIES:
+  :CATEGORY: Notes
+  :END:
+* Tasks
+  :PROPERTIES:
+  :CATEGORY: Tasks
+  :END:
+* Vehicles
+  :PROPERTIES:
+  :CATEGORY: Vehicles
+  :END:

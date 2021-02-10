@@ -1,0 +1,6 @@
+;;; Inbox file for all incoming tasks
+
+#+CATEGORY: Inbox
+#+FILETAGS: INBOX*
+#+STARTUP: showeverything
+#+TAGS: ERIEINDEMNITY(e) GLOBUSMEDICAL(g) PPG(P) PNCBANK(k) NUMO(n)

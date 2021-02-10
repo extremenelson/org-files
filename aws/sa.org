@@ -1,0 +1,182 @@
+#+Title: AWS Solution Architect Notes
+#+AUTHOR: Alex Nelson
+#+EMAIL: alnlso@amazon.com
+#+STARTUP: showeverything
+
+* Well Architected Framework
+** Reason for creation
+*** Ensure customers are thinking cloud natively
+*** Provide consistent approach to evaluating architectures
+*** Ensure customers are thinking about the foundational areas that are often neglected
+** Composed of
+*** Questions
+*** Design Principles
+*** Pillars
+** Pillars
+*** Operation Excellence
+    The ability to run and monitor systems to deliver business value and to continually improve supporting processes and procedures
+**** Prepare
+**** Operate
+**** Evolve
+*** Security
+**** Identity and access management
+**** Detective controls
+**** Infrastructure protection
+**** Data protection
+**** Incident response
+*** Reliability
+**** Foundations
+**** Change management
+**** Failure Management
+*** Performance Efficiency
+**** Selection
+**** Review
+**** Monitoring
+**** Trade-offs
+*** Cost Optimization
+**** Cost-effective resources
+**** Match supply and demand
+**** Expenditure awareness
+**** Optimizing over time
+** Positioning Well-architected
+*** Structure architectural conversations using the pillars and questions
+*** Find a champions within the organization
+*** Provide available resources
+*** Objections
+**** Too busy
+***** Likely risks existing in the system. By reviewing you can stop firefighting and focus on value add
+**** Change freeze
+***** If you can understand the current state you can provide value without any hiccups
+**** No longer working on that system
+***** Security of existing system. What is time till retirement?
+**** Proprietary info
+***** General questions. Nothing specific that would reveal those items
+*** Anti-Patterns
+**** No positioning the initiative early
+**** Not educating the customer
+**** Not having executive buy-in or a champion
+**** Not engaging with AWS or Partner if applicable
+**** Not effectively managing time
+**** Following the questions in a rigid manner
+*** Effective engagement patterns
+**** Educate customers
+**** Understand business context
+**** Find a champion
+**** Prepare the customer
+**** Effective environment
+*** The Review
+**** Dive deep
+**** Business context
+**** Conversation NOT audit
+**** Ask yourself
+***** Is this workload critical?
+***** What is the most important thing for the customer?
+***** Do they have a governance board?
+***** What's the risk or impact on poor design decisions or tradeoffs that are made?
+** Well architected tool (Shutting down on March 31,2020)
+*** Prep
+**** Engaged the customer
+**** Invited stakeholders to review meeting
+**** Sent the WA Framework whitepaper
+** Review
+*** Can you answer the question "Are you well-architected?"
+*** Benefits
+**** Build and deploy faster
+**** Lower or mitigate risks
+**** Make informed decisions
+**** Learn AWS best practices
+* External Communications
+** Module Objectives
+*** Describe how AWS employees should communicate
+*** Identify information that AWS does not disclose
+*** Distinguish between good and bad messages
+** Communication tennents
+*** Customer-centric
+**** Positive
+**** Customer-centric
+**** Humble
+*** Honesty
+**** Avoid spin
+**** Stick to the facts
+**** Take time to prepare
+*** Authority
+*** Quality over quantity
+** Employee attributes
+*** On message
+*** Exceptional judgement
+*** Humble
+** Brand Attributes
+*** Approachable
+*** Smart
+*** Enthusiastic
+*** Witty
+*** Self-effacing
+*** Trustworthy
+*** Respectful
+*** Pioneering
+** Core messages
+*** Security and Operational Excellence
+*** Invention
+*** Innovation
+*** Cloud Adoption
+** Formulating Answers
+*** First 60 seconds is crucial
+*** OK to pause before answering
+*** Reiterate your key messages
+*** Give a call-to-action
+*** Talk about a great customer example
+** Does not disclose
+*** AWS Financials
+*** AWS Services Statistics
+*** Data Center Locations
+*** AWS Roadmap
+*** AWS Customer Information
+*** AWS Infrastructure and Pricing
+*** Historical Pricing and Availability of Services
+*** Team Size
+* Cloud Computing
+** Definition
+*** On-demand
+*** IT Resources
+*** Accessible online
+*** Pay-as-you-go
+** Compute
+*** EC2
+*** ECS
+*** Lambda
+** Storage and Content Delivery
+*** Amazon EBS
+*** Amazon S3
+*** Amazon Glacier
+*** AWS Snowball
+*** Amazon Cloudfront
+** Database
+*** Amazon RDS
+*** Amazon Dynamo DB
+*** AWS Database Migration Service
+*** Amazon Redshift
+** Networking
+*** Amazon VPC
+*** AWS Direct Connect
+*** Amazon Route 53
+** Management tools
+*** Amazon CloudWatch
+*** AWS CloudFormation
+*** AWS Trusted Advisor
+** Security and Identity
+*** AWS IAM
+*** AWS WAF
+** Analytics
+*** Amazon EMR
+*** Amazon Kinesis
+** Application Services
+*** Amazon API Gateway
+*** AWS SQS
+** Enterprise Applications
+*** Amazon WorkSpaces
+** Artificial Intelligence
+*** Amazon Machine Learning
+** Internet of Things
+*** AWS IoT
+** AWS Developer Tools
+*** AWS Developer Tools

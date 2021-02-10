@@ -1,0 +1,1012 @@
+≈#+TITLE: AWS Client Activity
+#+AUTHOR: Alex Nelson
+#+EMAIL: alnlso@amazon.com
+#+STARTUP: showeverything
+#+TAGS: ERIEINDEMNITY(e) GLOBUSMEDICAL(g) PPG(P) PNCBANK(k) NUMO(n)
+
+* Erie Insurance                                                                :ERIEINDEMNITY:
+:PROPERTIES:
+:Name: Erie Insurance
+:AccountManager: Steve Schmitt
+:END:
+** MEETING with Steve Schmitt RE: Erie Insurance                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-04-21 Tue 16:01]--[2020-04-21 TUE 16:45] =>  0:44
+ Call to prep for Erie Insurance upcoming meetings.
+   :END:
+ [2020-04-21 Tue 16:01]
+** DONE Explore  Marklogic server architecture in more detail
+   CLOSED: [2020-05-15 Fri 14:37]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-05-15 Fri 14:37]
+   CLOCK: [2020-04-22 Wed 14:17]--[2020-04-22 Wed 15:12] =>  0:55
+   :END:
+ [2020-04-22 Wed 14:16]
+** MEETING with Marklogic meeting for Erie Insurance                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-04-27 Mon 12:12]--[2020-04-27 Mon 12:42] =>  0:30
+   :END:
+ [2020-04-27 Mon 12:12]
+** MEETING with ATI Metals - troubleshooting Sagemaker                          :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-04-30 Thu 14:20]--[2020-04-30 Thu 14:37] =>  0:17
+*** AWS Case number 6960938211
+*** Template points to Virginia region by default
+*** Quata was changed in Virginia region and not in Oregon
+   :END:
+ [2020-04-30 Thu 14:20]
+** MEETING with Marklogic about Erie Insurance                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-04-30 Thu 09:10]--[2020-04-30 Thu 10:44] =>  1:34
+*** Nutanix was original hosting
+ ***
+   :END:
+ [2020-04-30 Thu 09:10]
+** MEETING with Erie Insurance - WAF review for Marklogic                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-04-23 Thu 10:01]--[2020-04-23 Thu 12:01] =>  2:00
+   Matt Chastain ran the review
+ :END:
+ [2020-04-23 Thu 10:01]
+** DONE Write up and send out notes from Marklogic review for Erie Insurance
+   CLOSED: [2020-05-05 Tue 14:55]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-05-05 Tue 14:55]
+   :END:
+ [2020-04-30 Thu 10:44]
+** MEETING with AWS Control Tower Activation Day                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-27 Wed 10:00]--[2020-05-27 Wed 11:30] =>  1:30
+   CLOCK: [2020-05-27 Wed 12:00]--[2020-05-27 Wed 15:30] =>  3:30
+   :END:
+ [2020-05-27 Wed 10:00]
+** MEETING with Splunk RE: Erie Insurance                                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-26 Tue 13:00]--[2020-05-26 Tue 14:00] =>  1:00
+*** 750 Gb of Security logs per day
+*** 48 Tb of data stored currently
+*** Splunk APPS might need to be upgraded or not used in the cloud
+*** pricing
+**** Ingest - Gb per day
+**** Infrastructure
+   :END:
+ [2020-05-26 Tue 13:21]
+** MEETING with Erie Insurance RE: Billing processes and how to align with their system :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-21 Thu 10:24]--[2020-05-21 Thu 10:28] =>  0:04
+   :END:
+ [2020-05-21 Thu 10:24]
+** MEETING with Erie Insurance                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-20 Wed 16:02]--[2020-05-21 Thu 10:24] => 18:22
+   :END:
+ [2020-05-20 Wed 16:02]
+** MEETING with WAF review and update.                                          :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-06 Wed 14:15]--[2020-05-06 Wed 16:25] =>  2:10
+   :END:
+ [2020-05-06 Wed 14:15]
+
+** MEETING with Erie Insurance                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-11 Mon 13:13]--[2020-05-11 Mon 13:14] =>  0:01
+   CLOCK: [2020-05-11 Mon 13:09]--[2020-05-11 Mon 13:10] =>  0:01
+   CLOCK: [2020-05-11 Mon 12:55]--[2020-05-11 Mon 13:09] =>  0:14
+   CLOCK: [2020-05-11 Mon 10:04]--[2020-05-11 Mon 10:05] =>  0:01
+   CLOCK: [2020-05-08 Fri 13:36]--[2020-05-11 Mon 10:03] => 68:27
+   :END:
+   :LOGBOOK:
+*** Tagging policies out of AWS organizations
+*** New project manager for Marklogic in AWS (Chris Campy)
+*** Failure testing and game day for Marklogic
+**** Playbook for disaster response
+***** Security lens
+***** Infrastructure lens
+***** DR/Failover lens
+*** Marklogic has never run in production
+**** Still targetting August production deployment
+**** Marklogic is considered public sector
+**** AC has been talking directly to Marklogic
+**** Pipeline and process for deploying Marklogic
+   :END:
+ [2020-05-08 Fri 13:36]
+** MEETING with Marklogic RE: Erie Insurance                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-11 Mon 12:00]--[2020-05-11 Mon 12:30] =>  0:30
+   :END:
+ [2020-05-11 Mon 13:10]
+** DONE Skill up on Redshift
+   CLOSED: [2021-01-24 Sun 19:45]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2021-01-24 Sun 19:45]
+   :END:
+ [2020-05-12 Tue 12:03]
+** DONE Skill up on Elasitic Beanstalk
+   CLOSED: [2021-01-24 Sun 19:45]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2021-01-24 Sun 19:45]
+   :END:
+ [2020-05-12 Tue 12:03]
+** MEETING with Matt Chastain RE: Erie Insurance                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-12 Tue 15:59]--[2020-05-15 Fri 10:22] => 66:23
+*** Two EBC's already
+*** Second WAR
+*** Actuarial teams are well established
+*** Talking about running Game Days
+**** Actually set up Marklogic instance for
+*** Marco is the VP responsible for OPS
+**** Needs proof that operational readiness is in place
+**** Might need to reach out to him directly
+*** Lost enterprise architect last year because organization fails to move forward with rolling to production
+*** Erik Sontag is good resource. Might be doer.
+   :END:
+ [2020-05-12 Tue 15:59]
+** MEETING with Analytics Learning RE: Loading data into Redshift               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-28 Thu 12:00]--[2020-05-28 Thu 12:30] =>  0:30
+   :END:
+ [2020-05-28 Thu 12:00]
+** MEETING with Erie Insurance RE: Bi-weekly meeting                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-10 Wed 10:29]≈
+   CLOCK: [2020-06-09 Tue 16:07]--[2020-06-10 Wed 09:40] => 17:33
+   CLOCK: [2020-06-09 Tue 14:04]--[2020-06-09 Tue 15:04] =>  1:00
+   CLOCK: [2020-06-08 Mon 13:17]--[2020-06-09 Tue 13:37] => 24:20
+   CLOCK: [2020-06-08 Mon 11:11]--[2020-06-08 Mon 12:07] =>  0:56
+   CLOCK: [2020-06-05 Fri 13:33]--[2020-06-08 Mon 09:37] => 68:04
+   :END:
+   :LOGBOOK:
+*** Tagging
+**** regex for tag policy?
+*** Service control policies
+*** Transitioning to application ID for tagging
+*** Billing and chargeback
+*** Billing cost categories not showing up in cost explorer
+*** Using tags as a CMDB
+*** Managing sandbox accounts
+*** How to wipe out all resources in an account
+*** Beanstalk vs Fargate
+**** Selenium testing fleet
+**** Container envrionment
+   :END:
+ [2020-06-05 Fri 13:33]
+** MEETING with Mark Logic RE: Erie Insurance                                   :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-08 Mon 12:07]--[2020-06-08 Mon 13:17] =>  1:10
+   :END:
+ [2020-06-08 Mon 12:00]
+** MEETING with Erie Insurance RE: Cost Optimization                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-09 Tue 13:37]--[2020-06-09 Tue 14:00] =>  0:23
+   :END:
+ [2020-06-09 Tue 13:37]
+** TODO Research network connectivity for Erie Insurance RE consolidated onramp for all cloud providers
+ [2020-06-09 Tue 13:45]
+** MEETING with Steve Schmitt and Marin Mengesha RE: EDP calculations for Erie Insurance :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-10 Wed 09:40]--[2020-06-10 Wed 10:29] =>  0:49
+   :END:
+ [2020-06-10 Wed 09:40]
+** MEETING with Steve Schmitt RE: Erie                                          :MEETING:
+ [2020-06-10 Wed 11:33]
+** MEETING with AWS Insurance BD Team                                           :MEETING:
+   :LOGBOOK:
+*** Team
+**** Tony Jacob
+**** Chris Kelly
+**** John Lucking
+*** Server Infra
+**** 165 servers
+**** .5 Petabytes
+**** Production
+***** 300 Servers
+***** 4 Petabytes
+   :END:
+ [2020-06-15 Mon 15:01]
+** DONE Expose MSK cluster to the internet
+   CLOSED: [2021-01-24 Sun 19:45]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2021-01-24 Sun 19:45]
+   :END:
+*** Start with default cluster
+**** Create Internet gateway
+**** Attach the Internet Gateway to the MSK VPC
+**** Add the Internet Gateway into the Routing Table for the MSK VPC
+**** Create a Network Load Balancer for each Availability Zone
+***** Choose Internet facing
+***** Add TCP Listeners for ports
+***** Make sure listener is in the MSK VPC
+****** Port 2181 is Zookeeper Port
+****** Port 9092 is Non-TLS for Producers and Consumers
+****** Port 9094 is TLS for Producers and Consumers
+***** Get DNS names of the brokers and zookeper nodes from the MSK client information
+****** Perform a DNS lookup on each entry and record the IP address that is returned
+     [2020-08-27 Thu 09:48]
+** MEETING with Erie Insurance RE: MarkLogic cost optimization                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-11 Fri 11:00]--[2020-09-11 Fri 12:00] =>  1:00
+   :END:
+*** Review of spreadsheet from Brian Novacek
+*** Review of notes from last meeting
+*** Usage of RI for MarkLogic instances since they will be relatively static
+*** Staging is manual setup.
+**** Takes about an hour.
+**** Plans to automate in the future.
+**** Data Team is responsible for loading/unloading of data from MarkLogic
+*** All lower environments are using versions of production data
+  [2020-09-11 Fri 11:09]
+** MEETING with Erie RE: Weekly touch base                                      :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-11 Fri 12:00]--[2020-09-11 Fri 13:02] =>  1:02
+   :END:
+*** Middle management has gutted and stopped most of the cloud inititives that would be the most beneficial
+  [2020-09-11 Fri 12:56]
+** MEETING with Erie Insurance RE: Bi-weekly sync                               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-11 Fri 13:00]--[2020-09-11 Fri 14:00] =>  1:00
+   :END:
+ **
+  [2020-09-11 Fri 13:03]
+** MEETING with MarkLogic RE: Status                                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-15 Tue 12:03]--[2020-09-15 Tue 12:40] =>  0:37
+   :END:
+ [2020-09-15 Tue 12:03]
+*** No native JDBC driver from MarkLogic
+*** ODBC is the only connection type
+*** Postgres driver can be used to connect into ODBC
+*** PWC seems to be a blocker for Glue. Not sure what the issue is.
+** TODO Investigate tools for data lineage                                      :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:03]
+** TODO Clarify what the maximum number of query users is for Redshift          :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:05]
+** TODO Write up comparison betweeen CloudTrail and AWS Config                  :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:06]
+** TODO Investigate XML import into Redshift                                    :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:07]
+** TODO Get Redshift roadmap for features and enhancements                      :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:08]
+** TODO Investigate Data Inventory tool                                         :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:09]
+** TODO Explore ways to export data columns and types into IBM Infosphere       :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:09]
+** TODO Investigate recommendations for data governance tool                    :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:10]
+** TODO IAM Best practices for Redshift                                         :ERIEINDEMNITY:
+ [2020-09-16 Wed 16:11]
+** MEETING with Amit Sen RE: MAP program for Redshift for Erie                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-18 Fri 16:00]--[2020-09-18 Fri 17:00] =>  1:00
+   :END:
+ [2020-09-18 Fri 16:30]
+*** Need to review spreadsheet from Brian Novachek with Redshift specialist
+*** REach out to
+**** Brahmarouthu, Sandeep <brahmaro@amazon.com>
+**** daniel brock Brockda@amazon.com
+**** thottr@amazon.com - rajeev thottathil
+*** Ramping it down to 100K of ARR
+*** Including Phase 1 and future phases are going to come later
+** MEETING with AWS Bi-Weekly Teams Meeting                                     :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-25 Fri 13:31]--[2020-09-25 Fri 14:22] =>  0:51
+   :END:
+ [2020-09-25 Fri 13:31]
+*** SALM - SSO discussion
+**** AD and IAM mixture
+**** Very few workload or application groups
+**** Technical and process limitations
+*** MS Access
+**** Top thee approaches for replacement as if new code
+**** Possibly Honeycode?
+**** Look for other alternatives
+*** Snowball
+**** Move splunk enterprise to cloud
+**** Check on ordering snowball - Ask fellow SA's
+** MEETING with Erie Insurance RE: Weekly enterprise call                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-25 Fri 11:30]--[2020-09-25 Fri 12:30] =>  1:00
+   :END:
+ [2020-09-25 Fri 11:30]--[2020-09-25 Fri 12:30]
+ **
+** MEETING with Steve Schmitt RE: Erie Cost Optimisations for MAP               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-23 Wed 12:58]--[2020-09-23 Wed 13:00] =>  0:02
+   :END:
+ [2020-09-23 Wed 12:30]
+** MEETING with Erie MAP                                                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-23 Wed 10:30]--[2020-09-23 Wed 11:30] =>  1:00
+   :END:
+ [2020-09-23 Wed 11:28]
+*** 128k/Month
+*** 12 months
+*** List reductions
+**** Redhat reduction etc
+** MEETING with Erie Insurance                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-22 Tue 13:03]--[2020-09-22 Tue 14:13] =>  1:10
+   :END:
+ [2020-09-22 Tue 13:03]
+*** Dealing with lack of information
+*** Business is not aware of cloud economics
+*** Looking to create repeatable governance
+** MEETING with Erie Insurance RE: PSS Cost Optimization                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-28 Mon 09:03]--[2020-09-28 Mon 09:27] =>  0:24
+   :END:
+ [2020-09-28 Mon 09:00]
+*** Using Kinesis to pump CloudWatch logs into Splunk
+ **
+** DONE Review Kineses configuration for pumping data into Splunk
+   CLOSED: [2021-01-24 Sun 19:46]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2021-01-24 Sun 19:46]
+   :END:
+ [2020-09-28 Mon 09:13]
+** MEETING with ValueMomentum RE: Erie Insurance                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-28 Mon 15:04]--[2020-09-28 Mon 15:43] =>  0:39
+   :END:
+ [2020-09-28 Mon 15:04]
+*** 250 Onshore working for Erir
+*** Another 250 approx in Hyderabad
+*** Potential of using Nicus as Erie's cost/financial management
+** MEETING with Erie Insurance RE: Personal Lines Cost Review                   :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-29 Tue 09:30]--[2020-09-29 Tue 10:00] =>  0:30
+   :END:
+ [2020-09-29 Tue 09:31]
+*** SAS attached through Athena
+** MEETING with Erie Insurance RE: PCS Cost Optimization                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-30 Wed 09:00]--[2020-09-30 Wed 10:00] =>  1:00
+   :END:
+ [2020-09-30 Wed 09:02]
+*** PCS - Platform Common Services
+ **
+** MEETING with Erie Insurance RE: Actuarial Workload                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-30 Wed 13:00]--[2020-09-30 Wed 13:28] =>  0:28
+   :END:
+ [2020-09-30 Wed 13:00]
+*** Colabrio is call center solution
+*** Looking into Transcribe - multiple avenue
+** MEETING with Erie Insurance RE: VPC Cost Optimization                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-01 Thu 09:30]--[2020-10-01 Thu 10:00] =>  0:30
+   :END:
+ [2020-10-01 Thu 09:36]
+*** 2021 plan is to go to 10g Equinix connection
+*** AT&T is network provider
+** MEETING with Erie Team RE: Credits for Snowball                              :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-01 Thu 15:44]--[2020-10-01 Thu 16:13] =>  0:29
+   :END:
+ [2020-10-01 Thu 15:44]
+ **
+** MEETING with Erie Insurance RE: Weekly Enterprise Review                     :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-02 Fri 11:30]--[2020-10-02 Fri 12:06] =>  0:36
+   :END:
+ [2020-10-02 Fri 11:35]
+ **
+** MEETING with Erie Insurance                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-02 Fri 13:29]--[2020-10-04 Sun 21:14] => 55:45
+   :END:
+ [2020-10-02 Fri 13:29]
+*** Kafka
+*** Event Driven Tagging (IVANS uses XSLT to parse xml and convert to agent management system)
+*** ActiveMQ
+** MEETING with Splunk RE: Erie Insurance data load                             :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-05 Mon 15:45]--[2020-10-05 Mon 16:15] =>  0:30
+   :END:
+ [2020-10-05 Mon 15:47]
+** MEETING with Erie Insurance RE: Snowball proceedure and handling             :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-15 Thu 10:14]--[2020-10-15 Thu 10:23] =>  0:09
+   :END:
+ [2020-10-15 Thu 10:14]
+ **
+** MEETING with Erie Insurance                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-07-01 Wed 14:03]--[2020-07-01 Wed 14:39] =>  0:36
+*** Apoplication demo‹
+   :END:
+ [2020-07-01 Wed 14:03]
+** MEETING with Erie Insurance RE: RI vs Savings Plans                          :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-02 Wed 11:12]--[2020-12-02 Wed 11:36] =>  0:24
+   :END:
+*** Discussion of RI vs Savings Plans and what the options are prior to presenting to senior leadership
+ [2020-12-02 Wed 11:12]
+** MEETING with Matt Chastain RE: Erie Insurance and SSO                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-07 Mon 14:05]--[2020-12-07 Mon 14:32] =>  0:27
+   :END:
+ **
+  [2020-12-07 Mon 14:05]
+** MEETING with Erie Insurance                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-11 Fri 15:05]--[2020-12-11 Fri 16:40] =>  1:35
+   :END:
+*** PAYGO architecture and OneShield1
+**** Oneshield
+***** Oracle RAC
+***** J2EE
+***** ActiveMQ
+***** UI layer
+***** Tessle integration layer
+    [2020-12-11 Fri 15:05]
+** MEETING with Erie Insurance RE: Monthly status meeting                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-18 Fri 13:00]--[2020-12-18 Fri 14:30] => 44:32
+   :END:
+** WAR Levels
+** cc
+  [2020-12-16 Wed 17:04]
+** TODO  Contact Josh (TAM Manager) about how to activate enterprise support for their accounts
+ [2020-12-16 Wed 17:04]
+** MEETING with Erie Insurance RE: Snowball performance                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-22 Tue 14:45]--[2020-12-22 Tue 15:11] =>  0:26
+   :END:
+*** Separate VLAN
+*** Machines might need 32+ GB of RAM
+*** Using the S3 interface
+*** IO stats on Linux (source) machine were all good
+*** Virtualized infrastructure
+  [2020-12-22 Tue 14:45]
+** MEETING with Erie RE: OSPAS Paygo design session #4                          :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-21 Mon 14:40]--[2020-12-21 Mon 15:35] =>  0:55
+   :END:
+*** Review of prior meetings
+*** Using webshphere-liberty image
+*** Cloud COE needs to get engaged about architecture
+**** Security
+**** Logging
+**** Underlying service
+*** 5 containers
+**** Services
+**** Robotic Processor
+**** ActiveMQ
+**** OS Ent
+**** OS Designer
+*** Can potentially use SQS instead of custom ActiveMQ container
+*** Possibly going to use Mendix as UI
+*** There is existing custom UI based .NET that is on premises right now
+*** Need to have broader converssation with Adam and David Poulliott
+  [2020-12-21 Mon 14:40]
+** DONE Prepare list of questions around speed of loading data into Snowball. Erie was experiencing slow transfer
+   CLOSED: [2020-12-23 Wed 12:55]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-12-23 Wed 12:55]
+   :END:
+ [2020-12-18 Fri 13:41]
+** TODO Check if Erie can use a public VIF as well as the TG VIF on the same circuit
+ [2020-12-18 Fri 13:43]
+** TODO Qlik connections from On Premesis to AWS Redshift for Erie Insurance
+ [2020-12-18 Fri 14:04]
+** TODO GitLab runner connection to RedShift for Erie Insurance
+*** Using runner to push and execute DDL within Redshift
+  [2020-12-18 Fri 14:05]
+** MEETING with Erie Insurance RE: Paygo                                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-18 Fri 14:41]--[2020-12-20 Sun 18:37] => 51:56
+   :END:
+ **
+  [2020-12-18 Fri 14:41]
+** MEETING with Erie RE: Weekly Touch Base                                      :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-18 Fri 13:36]--[2020-12-18 Fri 13:43] =>  0:07
+   :END:
+ **
+  [2020-12-18 Fri 13:36]
+** MEETING with Erie Insurance RE: Qlik data needs                              :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-29 Thu 11:06]--[2020-10-29 Thu 12:17] =>  1:11
+   :END:
+ [2020-10-29 Thu 11:06]
+*** DataSync possible for transfering files to FSX
+*** 5mb to 20GB
+*** Up to 1800 users
+*** CSV and Qlik files
+ **
+** MEETING with Erie RE:                                                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-26 Mon 15:25]--[2020-10-27 Tue 09:41] => 18:16
+   :END:
+ [2020-10-26 Mon 15:12]
+** MEETING with Erie RE: Teams Access                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-13 Wed 13:32]--[2021-01-13 Wed 14:13] =>  0:41
+   :END:
+ [2021-01-13 Wed 13:32]
+*** Erie is deleting and re-adding account
+** MEETING with Erie RE: WAR for PCDS                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-14 Thu 09:12]--[2021-01-14 Thu 11:41] =>  2:29
+   :END:
+ [2021-01-14 Thu 09:00]
+*** 1/21/2021 Go live date
+** MEETING with Erie RE: Snowball Performance                                   :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-19 Tue 09:22]--[2021-01-19 Tue 10:48] =>  1:26
+   :END:
+ [2021-01-19 Tue 09:00]
+ **
+** MEETING with Erie RE: PAYGO OSPAS POC                                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-20 Wed 12:07]--[2021-01-20 Wed 13:12] =>  1:05
+   :END:
+ [2021-01-20 Wed 12:07]
+*** Performance testing
+**** Load
+***** ramped
+***** anticipated load first
+***** Ramp up to overall laod for existing workloads
+**** UI
+**** New business and endorsement transactions
+**** All Non-OSPAS services will be stubbed out
+*** Mendix will be used for UI
+*** Intent for POC
+**** Leverage AWS to validate
+***** Using automation for infrastructure
+***** Performance to meet anticipated needs
+***** Scaling to meet anticipated needs
+*** Might use Amazon MQ (Still resistance)
+*** Going to fork Erie Secure Business (ESB)
+**** External-facing systems
+***** Agent system of record
+***** Billing/pay plan options
+***** Address standardization
+***** Reports
+***** Business Valuation
+***** Additional third party systems
+**** Internal systems
+***** Ratabase
+***** Print
+**** Need to convert JSON (Mendix) to DXF (OneShield)
+**** Mendix
+***** will talk to services.erie over public internet
+***** services.erie is hosted out of erie datacenter
+***** Integration layer is in the works that will extend that out to the (~ 6 months out)
+*** AWS infrastructure
+**** Potentially using RDS Oracle for database
+**** Cloudwatch
+**** ALB discussion
+** MEETING with Erie RE: OSPAS PAYGO                                            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-22 Fri 14:01]--[2021-01-24 Sun 14:29] => 48:28
+   :END:
+ [2021-01-22 Fri 14:01]
+*** Planning on Terraform in container on AWS
+**** Hashicorp recommends against this pattern
+**** terraform can run in Lambda > lower cost
+ **
+** TODO Erie: Schedule broader conversation around CI/CD architecture and how to best integrate with AWS
+ [2021-01-22 Fri 14:33]
+** MEETING with Steve Schmitt RE: Erie strategic approach                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-01-25 Mon 09:46]--[2021-01-25 Mon 09:49] =>  0:03
+   :END:
+ [2021-01-25 Mon 09:15]
+*** Data
+**** use data gravity to pull other workloads
+**** leverage Marko to get traction
+**** lakehouse architecture
+*** Containers
+**** Need strategy
+**** EKS Anywhere
+**** strategy -> PWC -> Erica
+** MEETING with Erie Insurance RE: PAYGO POC Design                             :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-02-10 Wed 12:36]--[2021-02-10 Wed 13:03] =>  0:27
+   :END:
+ [2021-02-10 Wed 12:00]
+ **
+* General                                                                       :GENERAL:
+* Globus Medical                                                                :GLOBUSMEDICAL:
+** DONE Put together slide deck for Globus RE: appsync and s3 for serving data
+   CLOSED: [2020-05-15 Fri 14:38]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-05-15 Fri 14:38]
+   :END:
+ [2020-04-22 Wed 17:00]
+** DONE Send info sheets to Globus Medical
+   CLOSED: [2020-05-05 Tue 14:55]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-05-05 Tue 14:55]
+   :END:
+ [2020-04-22 Wed 16:59]
+** DONE Create Appsync demo for Globus Medical
+   CLOSED: [2020-05-15 Fri 14:38]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-05-15 Fri 14:38]
+   CLOCK: [2020-05-06 Wed 13:15]--[2020-05-06 Wed 13:45] =>  0:30
+   CLOCK: [2020-05-05 Tue 20:30]--[2020-05-05 Tue 22:30] =>  2:00
+   CLOCK: [2020-05-05 Tue 12:00]--[2020-05-05 Tue 18:00] =>  6:00
+   CLOCK: [2020-04-30 Thu 13:04]--[2020-04-30 Thu 14:00] =>  0:56
+   CLOCK: [2020-04-27 Mon 12:47]--[2020-04-27 Mon 17:01] =>  4:14
+   CLOCK: [2020-04-27 Mon 11:48]--[2020-04-27 Mon 12:09] =>  0:21
+   :END:
+ [2020-04-22 Wed 16:58]
+** MEETING with Globus Medical                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-04-22 Wed 15:14]--[2020-04-22 Wed 16:22] =>  1:08
+*** Introductions
+*** Demo of App
+**** Issues with IPAD for demo on their side
+**** Ignite API call limitations
+***** Data Sync
+***** Marketing app
+***** Use SQLLite to sync
+****** Might be good option of appsync and graphql
+****** Uses pull based model
+****** Partial refresh of data
+****** DB is approx 20MB
+***** Files are pushed to the device
+*** Potential solution set
+**** Appsync
+**** DynamoDB
+**** S3
+   :END:
+ [2020-04-22 Wed 15:14]
+** MEETING with Control Tower with Globus Medical                               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-01 Fri 10:30]--[2020-05-01 Fri 12:01] =>  1:31
+*** How to manage nested OU's in Control Tower - When will this be supported?
+*** Control Tower regions and what happens when an account needs to be in a region not covered by CT
+*** GDPR restrictions and CT
+**** GDPR requires data to stay in Germany (Frankfurt) and can that be managed within CT
+**** How do all the regions interact RE: GDPR?
+*** Want to use AD for authentication. Looking for pattern to use
+*** Send customer AWS SSO and AD/AzureAD integration info
+**** Turn off IAM user creation and depend on AWS SSO
+*** Drift management in CT?
+*** Ending questions
+**** Pricing/cost
+**** GDPR deeper dive - options for security masking and such
+**** Egress costs
+**** Enterprise support
+**** Billing alerts and the like
+**** Transit Gateway
+**** AppStream
+   :END:
+ [2020-05-01 Fri 11:20]
+** MEETING with KT with Chris Ott RE: AppStream                                 :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-04 Mon 11:01]--[2020-05-04 Mon 11:10] =>  0:09
+*** Existing application
+*** Don't want to refactor the app
+*** Juan did deep dive in February
+*** Recommend containerizing the app
+*** User specific SQLlite DB that sits in the root of C:
+*** Data analytics app
+   :END:
+ [2020-05-04 Mon 11:01]
+≈** DONE Send AWS SSO and AD/AzureAD integration info to Globus Medical
+   CLOSED: [2020-05-05 Tue 14:53]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-05-05 Tue 14:53]
+   :END:
+ [2020-05-01 Fri 12:18]
+** MEETING with Vlad RE: Globus Medical                                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-28 Thu 08:00]--[2020-05-28 Thu 09:00] =>  1:00
+   :END:
+** MEETING Training on Serverless                                               :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-08 Fri 12:02]--[2020-05-08 Fri 13:00] =>  0:58
+   :END:
+ [2020-05-08 Fri 12:02]
+** MEETING with Richard RE: Globus Medical                                      :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-11 Mon 16:30]--[2020-05-11 Mon 17:00] =>  0:30
+   :END:
+ [2020-05-11 Mon 16:47]
+** MEETING with Globus Medical senior staff RE: Priorities                      :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-29 Fri 14:00]--[2020-05-29 Fri 14:30] =>  0:30
+   :END:
+ [2020-05-29 Fri 14:48]
+** MEETING with Globus Medical RE: Appstream                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-04 Thu 10:15]--[2020-06-04 Thu 11:04] =>  0:49
+*** Demo
+**** What authentication method for AppStream
+   :END:
+ [2020-06-04 Thu 10:15]
+** TODO Send writeup to Globus Medical RE: AppSync and FsX
+ [2020-06-09 Tue 14:03]
+** MEETING with Globus Medical RE: Lambda and DynamoDB Immersion Day            :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-24 Wed 13:00]--[2020-06-25 Thu 12:28] => 23:28
+   :END:
+ [2020-06-24 Wed 13:00]
+** MEETING with Globus Medical Marketing Team                                   :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-07-24 Fri 09:00]--[2020-07-24 Fri 09:45] =>  0:45
+   :END:
+ [2020-07-24 Fri 11:08]
+** MEETING with Matt Luttrel on Globus Appstream                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-30 Wed 15:00]--[2020-09-30 Wed 15:30] =>  0:30
+   :END:
+ [2020-09-30 Wed 15:08]
+* PPG                                                                           :PPG:
+** MEETING with PPG RE: Savings plans                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-28 Thu 10:00]--[2020-05-28 Thu 11:00] =>  1:00
+   :END:
+ [2020-05-28 Thu 11:02]
+** MEETING with Amazon Personalize BD RE PPG                                    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-27 Wed 11:30]--[2020-05-27 Wed 12:00] =>  0:30
+*** Pinpoint and Personalize as possible combination
+   :END:
+ [2020-05-27 Wed 11:34]
+** MEETING with PPG                                                             :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-19 Tue 10:30]--[2020-05-19 Tue 12:40] =>  2:10
+*** Heavy investment in Azure data lake
+*** Ordering engine for internet facing application
+**** Prefer that it be AI based
+**** ecommerce application
+**** Personalization engine
+**** Product recommendations
+**** B2B customer
+**** Large category paint customers
+***** Ryan homes buys and sells to their customers
+**** Third party sellers
+**** Biggest competitor is Sherwin Williams
+*****  Trying to go digital for Covid since stores are not open
+*** Internal built app
+**** .NET API and Typescript Front end
+**** Used
+*** Commercetools
+**** Based in Germany
+**** AWS based
+**** Totally API based
+**** 100ms response time
+**** 99.9% uptime
+**** MongoDB based
+**** Ingestion containers
+**** Headless engine
+*** Wants high level global arrangement
+*** Wants potential of Amazon business partnership
+*** Interested in monitoring tools
+**** Need to be cross platform
+**** Best in class tools (Datadog)
+*** Informatica is integrating 8 busness units
+*** Coatings business
+**** Amazon.com
+**** Walmart
+**** Home Depot
+   :END:
+ [2020-05-19 Tue 10:35]
+** MEETING with Talend RE: PPG                                                  :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-11 Mon 15:35]--[2020-05-11 Mon 16:47] =>  1:12
+*** 37 ERP systems feeding into Azure
+*** 40% of data is from SAP
+*** Incompatability between version of SAP and Talend prevents Talend from directly extracting data and thus feeds into SQL Databases
+*** 100s of extractors running daily.
+*** All done in Azure right now
+*** Looking to replace HDINSIGHT with Databricks
+*** Looking to replace SQL Datamarts with SQL ??
+*** Just recently migrated to Talend 7.1
+   :END:
+ [2020-05-11 Mon 15:35]
+** MEETING with Steve Schmitt RE: PPG                                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-12 Tue 13:00]--[2020-05-12 Tue 13:37] =>  0:37
+   :END:
+ [2020-05-12 Tue 13:33]
+** DONE Create presentation for PPG
+   CLOSED: [2020-10-21 Wed 08:44]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-10-21 Wed 08:44]
+   :END:
+ [2020-05-15 Fri 14:45]
+** MEETING with PPG RE: Access Key issue                                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-05-29 Fri 13:30]--[2020-05-29 Fri 14:00] =>  0:30
+   :END:
+ [2020-05-29 Fri 14:11]
+** MEETING with Steve Schmitt RE: PPG Presentation prep                         :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-02 Tue 10:30]--[2020-06-02 Tue 12:49] =>  2:19
+   :END:
+ [2020-06-02 Tue 10:30]
+** MEETING with PPG POC planning                                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-07-01 Wed 14:39]--[2020-07-02 Thu 09:11] => 18:32
+ **
+   :END:
+ [2020-07-01 Wed 14:39]
+** MEETING with PPG RE: Personalize Kickoff                                     :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-15 Tue 08:03]--[2020-09-15 Tue 10:00] =>  1:57
+   :END:
+ [2020-09-15 Tue 08:03]
+*** Architecture
+** DONE Research ways to allow URL address information to flow into PPG from Route53 health checks
+   CLOSED: [2020-10-21 Wed 08:44]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-10-21 Wed 08:44]
+   :END:
+ [2020-09-22 Tue 16:09]
+** DONE Question from Gavix at PPG
+   CLOSED: [2020-10-21 Wed 09:48]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-10-21 Wed 09:48]
+   :END:
+ [2020-10-15 Thu 11:20]
+*** How to use the AWS CLI in PowerShell with Azure AD authentication
+**** https://aws.amazon.com/blogs/aws/the-next-evolution-in-aws-single-sign-on/
+**** https://aws.amazon.com/blogs/developer/aws-cli-v2-now-supports-aws-single-sign-on/
+** TODO Send Circuit breaker - exponential backoff articles to Eddie at Paintzen
+ [2020-10-30 Fri 12:46]
+* PNC Bank                                                                      :PNCBANK:
+** MEETING with PNC Innovation Labs Team                                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-01 Mon 14:04]--[2020-06-01 Mon 16:20] =>  2:16
+*** Enterprise Innovation
+**** Sit at the Group Level
+**** All business units of PNC
+**** Internal consulting activities
+***** Design Thinking
+***** Business Innovation
+***** Technology Innovation
+***** Incubation Capabilities
+**** Looking to create Air-Gapped sandbox instance
+***** Already have one for Azure
+***** Looking into multi-cloud environment
+***** Talking to Google as well
+**** Rules of engagement
+***** No connectivity to PNC
+***** No international access
+***** No PII
+**** Use case for serverless
+***** Web services
+***** Enterprise arch
+****** 6-9 use cases
+***** SRE - (x-ray, troubleshooting)
+**** AWS Outposts
+   :END:
+ [2020-06-01 Mon 14:04]
+** MEETING with PNC RE: Bi-Weekly meeting                                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-06-09 Tue 15:04]--[2020-06-09 Tue 16:07] =>  1:03
+*** Training
+**** Goal to have all FTE and contractors have Cloud Practisioner by end of 2020
+   :END:
+ [2020-06-09 Tue 15:04]
+** DONE Send email to Chat from PNC about use cases
+   CLOSED: [2020-10-21 Wed 08:44]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-10-21 Wed 08:44]
+   :END:
+ [2020-06-09 Tue 16:47]
+** MEETING with Alext Castanadez                                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-08-19 Wed 14:00]--[2020-08-19 Wed 14:30] =>  0:30
+   :END:
+*** Direct Connect
+**** Bert was originally on this
+**** Overview diagram
+***** Bottom flow is correct
+***** Top flow is incorrect
+****** Cannot use Transit VIF due to hosted connection requires 1Gb or better connection
+****** Only bought a 100Mb connection
+****** Trouble ticket (knowledge ui)
+****** Might need IPSEC tunnel
+******* Could run from router directly to TG with no direct connect
+******* Could run from router to public VIF amd then to TG and run IPSEC between router and TG
+ [2020-08-19 Wed 13:59]
+** MEETING with PNC RE: Getting started with AWS                                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-17 Thu 13:00]--[2020-09-17 Thu 14:00] =>  1:00
+   :END:
+ [2020-09-17 Thu 13:24]
+** MEETING with Erik Luca and Kenneth Robb RE: PNC and AWS                      :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-01 Thu 13:00]--[2020-10-01 Thu 13:30] =>  0:30
+   :END:
+ [2020-10-01 Thu 13:06]
+** MEETING with Splunk RE: PNC Bank                                             :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-01 Thu 16:30]--[2020-10-01 Thu 17:30] =>  1:00
+   :END:
+ [2020-10-01 Thu 17:14]
+** MEETING with PNC RE: iLabs getting started                                   :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-02 Fri 09:41]--[2020-10-02 Fri 10:15] =>  0:34
+   :END:
+ [2020-10-02 Fri 09:41]
+** MEETING with Erik Luca RE: Bi-weekly touch base                              :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-13 Tue 15:01]--[2020-10-14 Wed 08:02] => 17:01
+   :END:
+ [2020-10-13 Tue 15:01]
+ **
+** MEETING with PNC Bank RE: iLabs                                              :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-16 Fri 10:06]--[2020-10-16 Fri 11:06] =>  1:00
+   :END:
+ [2020-10-16 Fri 10:06]
+** MEETING with PNC RE: EBC                                                     :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-12-02 Wed 16:13]--[2020-12-02 Wed 17:24] =>  1:11
+   :END:
+ **
+ [2020-12-02 Wed 16:13]
+* PNC Bank Numo                                                                 :PNCBANK:NUMO:
+** MEETING with Numo RE: Artifactory and Kubernetes                             :MEETING:
+*** Used kubernetes at DYN
+*** Very much containerized
+*** Lots of ECS within Numo
+*** Questions
+**** Okta based auth to EKS control plane
+**** Container registry primarily
+**** GitHub actions
+**** CircleCI
+**** AWS code tooling
+ ***
+ [2020-08-03 Mon 14:03]
+** MEETING with Numo RE architecture                                            :MEETING:
+ [2020-08-18 Tue 16:09]
+** MEETING with Numo and AppMesh product team                                   :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-08-24 Mon 16:05]--[2020-08-24 Mon 16:35] =>  0:30
+   :END:
+*** AppMesh mTLS
+*** Not great documentation on fargate. Good documentation on ECS and EC2
+*** Might need secondary policy layer
+**** JWT
+**** Open Policy Agent
+  [2020-08-24 Mon 16:04]
+** MEETING with Numo RE: EKS & Fargate                                          :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-08-31 Mon 15:31]--[2020-08-31 Mon 16:19] =>  0:48
+   :END:
+ *
+ [2020-08-31 Mon 15:31]
+** MEETING with Numo RE: Bi-weekly update                                       :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-17 Thu 14:00]--[2020-09-17 Thu 15:30] =>  1:30
+   :END:
+ [2020-09-17 Thu 14:00]
+** MEETING with Numo RE: Indie architecture and operations goals                :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-25 Fri 10:30]--[2020-09-25 Fri 11:30] =>  1:00
+   :END:
+ [2020-09-25 Fri 10:34]
+ **
+** MEETING with Numo Bi-Weekly Team Sync                                        :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-30 Wed 14:35]--[2020-09-30 Wed 15:07] =>  0:32
+   :END:
+ [2020-09-30 Wed 14:35]
+ **
+** MEETING with Dave Brussel RE: Numo and SAAS Factory                          :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-09-30 Wed 15:30]--[2020-09-30 Wed 16:00] =>  0:30
+   :END:
+ [2020-09-30 Wed 15:33]
+** MEETING with Numo RE: Bi-Weekly Open Hours                                   :MEETING:
+   :LOGBOOK:
+   CLOCK: [2020-10-01 Thu 14:00]--[2020-10-01 Thu 14:50] =>  0:50
+   :END:
+ [2020-10-01 Thu 14:00]
+ **
+** TODO Numo: look into how to track and notify on login with elevated privileges
+   DEADLINE: <2021-01-25 Mon>
+ [2021-01-22 Fri 14:49]
+** TODO Check in with Alex Flurie about open sourcing or partner blogs conversation
+   DEADLINE: <2021-02-01 Mon>
+ [2021-01-24 Sun 19:41]

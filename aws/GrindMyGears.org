@@ -1,0 +1,5 @@
+* Topics
+** Cloud 9 doesn't come with the latest version of the CLI
+** CDK requires Javascript even if that is not your language of choice
+** Official repos that don't work anymore
+**
