@@ -4,3 +4,9 @@
 #+FILETAGS: INBOX*
 #+STARTUP: showeverything
 #+TAGS: ERIEINDEMNITY(e) GLOBUSMEDICAL(g) PPG(P) PNCBANK(k) NUMO(n)
+* MEETING with Erir Insurance RE: Container Workshop                            :MEETING:
+  :LOGBOOK:
+  CLOCK: [2021-02-11 Thu 08:32]--[2021-02-13 Sat 12:26] => 51:54
+  :END:
+[2021-02-11 Thu 08:32]
+**
