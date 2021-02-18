@@ -1,0 +1,75 @@
+* The demo addressed the core customer requirements (from the AWSome Builder II scenario) and convinced the audience that AWS can handle the workload.
+** YES:
+The candidate presented a solution that matched the requirements given by the customer
+(the mentor will review via email or before the candidate enters the meeting).
+The demo answered the major customer requirements or concerns given to the candidate before the meeting.
+One or two minor glitches/errors is acceptable, if the candidate handles the situation calmly.
+SA’s earn trust by walking through their demo in a story fashion that addresses the customer’s requirements.
+** NEEDS IMPROVEMENT:
+The proof-of-concept was well done, but missed on a minor requirement given by customer.
+Also mark needs improvement if there were a few minor mistakes or glitches,
+but none that directly relate to the key requirements set forth by the customer (mentor).
+** NO:
+Major glitches in the demo or the demo does not align with what was asked of the candidate.
+* The solution shown in the demo was:
+** TOO SIMPLISTIC:
+If the solution was too simple, was a high level walk-through of the services, or just marketing,
+they failed to earn trust.
+Candidate should show how they are improving the specific customer’s experience,
+not selling AWS services.
+** TOO COMPLEX:
+If the architecture seemed complex to other SAs, this will be difficult for customers new to AWS.
+Look for acceptable zoom-in or drill down approaches. If the SA was able to briefly show a larger
+system of many services, but drilled down and focused the demo on a specific function,
+they may fall into the “just right” category below. However, they have also opened themselves up
+for broader questions and off topic discussions.
+** JUST RIGHT:
+SA focused on just the right amount of technology to solve a customer challenge,
+and small enough they could really dive deep on how the solution works and helps the customer.
+Bar raisers will highlight aspects of the Well Architected pillars in their solution.
+* The candidate addressed my questions, taking follow-up actions if necessary.
+** YES:
+SA either responded with the correct answer or asked questions and took notes and follow-up actions.
+SA handled the high-level messaging and 100-300 level service questions correctly.
+** NEEDS IMPROVEMENT:
+A few minor incorrect answers, failed to take a few follow-up items, or failed to ask clarifying questions back to the customer.
+** NO:
+Major technical mistakes in answers, or failed to take follow-up actions.
+Evaluators are looking for a pattern, and not a single mistake.
+* The candidate delivered an effective demo of the POC.
+** YES:
+The candidate used a live demo (and video) effectively to showcase the solution in an engaging manner.
+Candidate was comfortable answering deeper technical questions and showing how the demo was implemented.
+Bar Raising: Candidate handed out URL/App to the attendee to try out the demo on their own.
+Candidate has automated deployment, demonstrates his/her solution handling failures gracefully without
+affecting reliability/availability of the solution.
+** NEEDS IMPROVEMENT:
+The demo order or timing was not effective.
+For example, waiting for resources to deploy and not using that time to discuss or showcase another part of the demo.
+Candidate struggled with AWS console, or some of the other functionality.
+** NO:
+Demo was not presented clearly or was incomplete in functionality, with key customer requirements not demonstrated.
+The candidate did not provide a clear story, but rather discussed items randomly.
+* The cost information was transparent (in an earns-trust fashion) and well explained.
+** YES:
+Accurately explained either the cost of building the demo or if given some sizing and usage requirements,
+some cost estimates for running the workload in AWS.
+The candidate should provide clear guidance on the scope of what is and not in the estimates,
+and point to specifics where customer could see higher/lower costs based on diving deeper.
+(Bar Raising discussions include: AWS calculator, spot, savings plans, trusted advisor, and well-architected cost pillar).
+** NEEDS IMPROVEMENT:
+Covered cost fairly well, but missed on either transparency (missed several items,
+a significant item, or significantly wrong pricing). Also could need improvement if accurate, but unclear explanations.
+** NO:
+Did not offer cost information, or the candidate offered significant incorrect or confusing cost information.
+* Did the candidate cover the next steps, develop and deploy GA version of solution?
+** YES:
+candidate provided clear next steps for how the customer would get to production.
+bar raisers will also show how the sa will be involved in those next steps.
+provided options to leverage proserve and apn partners.
+** needs improvement:
+limited or confusing guidance.
+candidate did not provide guidance in line with customer’s preference or did not listen to customer feedback
+whether they prefer working with apn partner or building the solution themselves
+** NO:
+Candidate did not provide information on the next steps or clear set of instructions.
