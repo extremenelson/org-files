@@ -4,9 +4,59 @@
 #+FILETAGS: INBOX*
 #+STARTUP: showeverything
 #+TAGS: ERIEINDEMNITY(e) GLOBUSMEDICAL(g) PPG(P) PNCBANK(k) NUMO(n)
-* MEETING with Erir Insurance RE: Container Workshop                            :MEETING:
+* MEETING with Account Team RE: 2021 plan                                       :MEETING:
   :LOGBOOK:
-  CLOCK: [2021-02-11 Thu 08:32]--[2021-02-13 Sat 12:26] => 51:54
+  CLOCK: [2021-02-16 Tue 09:12]--[2021-02-16 Tue 09:52] =>  0:40
   :END:
-[2021-02-11 Thu 08:32]
+[2021-02-16 Tue 09:12]
+** Attendees
+*** Taryn Marrone
+*** Nick Emig
+*** Steve Schmitt
+*** Anjana Kandalam
+*** Chritina Mannarino
 **
+* MEETING with Anjana's Team Huddle                                             :MEETING:
+  :LOGBOOK:
+  CLOCK: [2021-02-16 Tue 10:14]--[2021-02-16 Tue 11:03] =>  0:49
+  :END:
+[2021-02-16 Tue 10:00]
+**
+* MEETING with Qlik RE: Erie Insurance architecture                             :MEETING:
+  :LOGBOOK:
+  CLOCK: [2021-02-17 Wed 14:03]--[2021-02-17 Wed 15:02] =>  0:59
+  :END:
+[2021-02-17 Wed 14:03]
+** Configuration
+*** F5 as load balancer
+*** Proxy nodes - 2
+*** 4 nodes total
+*** two central nodes
+*** winFS as back end
+*** using RDS Postgres
+** Going to slipstream patches into the AMI
+** Multi AZ architecture
+** Backups
+*** File share
+*** postgres
+**
+* MEETING with Erie Insurance RE: Family Life OCR                               :MEETING:
+  :LOGBOOK:
+  CLOCK: [2021-02-17 Wed 15:02]--[2021-02-17 Wed 16:47] =>  1:45
+  :END:
+[2021-02-17 Wed 15:02]
+** Source documents are coming from NTT
+** Serverless design
+** Textract
+**
+* MEETING with Erie Insurance RE: Monthly Status Meeting                        :MEETING:
+  :LOGBOOK:
+  CLOCK: [2021-02-17 Wed 16:48]--[2021-02-17 Wed 17:20] =>  0:32
+  :END:
+[2021-02-17 Wed 16:48]
+**
+* MEETING with Podcast recording                                                :MEETING:
+  :LOGBOOK:
+  CLOCK: [2021-02-17 Wed 17:24]
+  :END:
+[2021-02-17 Wed 17:24]

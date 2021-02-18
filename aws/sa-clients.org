@@ -608,6 +608,12 @@
    :END:
  [2021-02-10 Wed 12:00]
  **
+** MEETING with Erie Insurance RE: Container Workshop                           :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-02-11 Thu 08:32]--[2021-02-13 Sat 12:26] => 51:54
+   :END:
+ [2021-02-11 Thu 08:32]
+ **
 * General                                                                       :GENERAL:
 * Globus Medical                                                                :GLOBUSMEDICAL:
 ** DONE Put together slide deck for Globus RE: appsync and s3 for serving data
@@ -945,6 +951,29 @@
    :END:
  **
  [2020-12-02 Wed 16:13]
+** MEETING with PNC iLabs RE: Status update                                     :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-02-16 Tue 11:03]--[2021-02-16 Tue 11:17] =>  0:14
+   :END:
+ [2021-02-16 Tue 11:03]
+ **
+** MEETING with AWS Training RE: PNC University                                 :MEETING:
+   :LOGBOOK:
+   CLOCK: [2021-02-16 Tue 08:33]--[2021-02-16 Tue 08:55] =>  0:22
+   :END:
+ [2021-02-16 Tue 08:30]
+*** Participants
+**** Michael Lynch
+**** Steve Schmitt
+*** Areas
+**** Financial management
+**** audit and security
+**** Automation and governance
+*** Learn to earn program
+**** Dollar spent on training results in dollar of savings
+**** Minimum invetment of $100k
+**** Must be delivered prior to eoy 2021
+**** AWS reimburses at 50%
 * PNC Bank Numo                                                                 :PNCBANK:NUMO:
 ** MEETING with Numo RE: Artifactory and Kubernetes                             :MEETING:
 *** Used kubernetes at DYN

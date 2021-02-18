@@ -234,6 +234,11 @@
 **** Redirect users faster
 **** Good job with security groups
 **** Good job answering questions and calling out who asked the question
+*** MEETING with Robert Johnson RE: Immersion Day                               :MEETING:
+    :LOGBOOK:
+    CLOCK: [2021-02-16 Tue 11:17]--[2021-02-16 Tue 13:04] =>  1:47
+    :END:
+  [2021-02-16 Tue 11:17]
 ** MEETING with Phone Screen for Victor Feinman                                 :MEETING:
    :LOGBOOK:
    CLOCK: [2020-05-19 Tue 09:42]--[2020-05-19 Tue 10:34] =>  0:52
